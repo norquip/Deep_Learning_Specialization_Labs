@@ -20,4 +20,4 @@ In addition, I learned how to use NumPy to perform all the computations in the c
 *  Week 4 - programming assignment: *Building Your Deep Neural Network: Step by Step*.
   
    Being accustomed to work with tensors, I wondered whether tensor notation could be used instead of vectorization notation to derive the equations, and how tensors could be implemented in the code. After some exploration, I decided to work with *TensorFlow*. 
-   Here, I adapted the code to the  *TensorFlow* syntax while preserving the original structure and logic of the original file of the course. 
+   Here, I adapted the code of the assignment to the  *TensorFlow* syntax while preserving the original structure and logic of the original file of the course. No figures are included. 
