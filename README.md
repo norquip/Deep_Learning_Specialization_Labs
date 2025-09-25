@@ -5,8 +5,6 @@ the programming assignments from the [Deep Learning Specialization on Coursera](
 These changes were made to deepen my understanding and explore alternative approaches.
 
 
-This repository contains my notes on some of the subjects and  slight modifications to some of the programming assignments. 
-The changes were made to deepen my understanding. 
 
 
 ##  Course 1: Neural Networks and Deep Learning
