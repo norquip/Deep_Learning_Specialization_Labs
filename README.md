@@ -23,6 +23,6 @@ In addition, I learned how to use NumPy to perform all the computations in the c
    Here, I adapted the code of the assignment to the  *TensorFlow* syntax while preserving the original structure and logic of the original file of the course without the figures. 
 
 
-Disclaimer
+## Disclaimer
 These modifications are my own work and are shared under the terms of fair use for educational purposes.  
 All original course materials are © DeepLearning.AI / Coursera.
