@@ -1,5 +1,9 @@
 # Deep Learning Specialization — Notes & Modifications
 
+⚠️ This repository is currently under construction.
+
+
+
 This repository contains some of my personal notes on several topics of the courses, along with slight modifications to some of
 the programming assignments from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 These changes were made to deepen my understanding and explore alternative approaches.
