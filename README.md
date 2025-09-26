@@ -26,3 +26,7 @@ In addition, I learned how to use NumPy to perform all the computations in the c
 ## Disclaimer
 These modifications are my own work and are shared under the terms of fair use for educational purposes.  
 All original course materials are © DeepLearning.AI / Coursera.
+
+## Credits
+
+This repository is inspired by and based on the Deep Learning Specialization by Andrew Ng, offered through DeepLearning.AI
